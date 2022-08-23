@@ -30,6 +30,10 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Projects Web:
 - CIRM (Citizen Relationship Management) [Nechki](https://astounding-pasca-8d705c.netlify.app/)</br>
-this challenge aimed at setting up a "Governmental Complaints Platform", named "CiRM", for the benefit of the "Mediator of the Republic"</br>
+this challenge aimed at setting up a "Governmental Complaints Platform", named <b>"CiRM"</b>, for the benefit of the "Mediator of the Republic"</br>
 link challenge: https://cirm.gov.dz/
+
+- [Gallery](https://benrabah-gallery.herokuapp.com/)
+A simple website to display images and details like a gallery in a phone that I designed during the <b>Micro Club</b> web development course
+Source code: https://github.com/mohamed7372/gallery-website
 
