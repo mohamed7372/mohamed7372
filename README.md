@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [good game store](https://github.com/mohamed7372/Good-Game-Store), Voting platfrom for <b>Micro Club</b>, Mcvity for <b>Micro Club</b>
+- 🔭 I’m currently working on [good game store](https://github.com/mohamed7372/Good-Game-Store) | Voting Platform | Mcvity
 
 - 🌱 I’m currently learning **MERN Stack, IA**
 
-- 👨‍💻 All of my projects are available at [mohamed7372.github.io/techcampus-one/](mohamed7372.github.io/techcampus-one/)
+- 👨‍💻 All of my projects are available at [mohamed7372.github.io](mohamed7372.github.io)
 
 - 💬 Ask me about **React, OOP, Java, Python**
 
@@ -58,7 +58,14 @@ It is a showcase site that offers <b>CiE</b>(Centre International des services E
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed benrabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed benrabah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-benrabah-522992191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-benrabah-522992191" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/11414690/mohamed-benrabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/11414690/mohamed-benrabah" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamedbenrabah7472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedbenrabah7472" height="30" width="40" /></a>
+<a href="https://fb.com/100009930451485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009930451485" height="30" width="40" /></a>
+<a href="https://instagram.com/benra_mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benra_mohamed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucrdrww8jx8zt0jmwvlt7cmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucrdrww8jx8zt0jmwvlt7cmq" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohamed7372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed7372" height="30" width="40" /></a>
+<a href="https://discord.gg/mohamed7472#3041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohamed7472#3041" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,4 +76,3 @@ It is a showcase site that offers <b>CiE</b>(Centre International des services E
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed7372&show_icons=true&locale=en" alt="mohamed7372" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed7372&" alt="mohamed7372" /></p>
-
