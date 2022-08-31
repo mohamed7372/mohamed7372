@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [good game store](https://github.com/mohamed7372/Good-Game-Store)
+- 🔭 I’m currently working on [good game store](https://github.com/mohamed7372/Good-Game-Store), Voting platfrom for <b>Micro Club</b>, Mcvity for <b>Micro Club</b>
 
 - 🌱 I’m currently learning **MERN Stack, IA**
 
 - 👨‍💻 All of my projects are available at [mohamed7372.github.io/techcampus-one/](mohamed7372.github.io/techcampus-one/)
 
-- 💬 Ask me about **react, oop, java, python**
+- 💬 Ask me about **React, OOP, Java, Python**
 
 - 📫 How to reach me **benrabahmohamed530@gmail.com**
 
