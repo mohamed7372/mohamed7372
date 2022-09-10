@@ -25,7 +25,16 @@ We chose the Naftal Challenge where we provided a solution to reduce the amount 
 As well as providing a service for people who need fuel and their cars stop in the middle of nowhere, all this in addition to a stimulus method to attract the attention of users.</br>
 DevPost: https://devpost.com/software/naftal-ride </br>
 Source code: https://github.com/mohamed7372/Naftal-app-Hackit </br>
-`Team Work`
+`Team Work` `HackIt`
+
+- Hygie </br>
+Is an innovative solution, A web application embedded in Techmology’s Moborne <b>touch terminal</b>. Used mainly in public large hospitals to assist patients through their journey.</br>
+Source code: https://github.com/mohamed7372/hygie </br>
+`Team Work` `JunctionX`
+
+- Selekni </br>
+We dealt with the issue of violence against women in the streets. The solution was to provide an application that, when pressing 3 times on the phone button, sends pictures, location, and audio recording for emergencies automatically. We also thought of an agreement with phone dealers to provide credit and free internet to send an emergency message, with a subscription for a symbolic amount to provide this feature.</br>
+`Team Work` `Cyber Pink`
 
 ## Projects IA:
 
