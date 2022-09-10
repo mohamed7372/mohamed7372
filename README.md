@@ -22,7 +22,7 @@
 ## Hackathon:
 - Naftal </br>
 We chose the Naftal Challenge where we provided a solution to reduce the amount of time people would be waiting in a queue, using <b>artificial intelligence</b> to give you which station would be fast for you based on the charges at that station.</br>
-As well as providing a service for people who need fuel and their cars stop in the middle of nowhere, all this in addition to a stimulus method to attract the attention of users.</br>
+As well as providing a service for people who need fuel and their cars stop in the middle of nowhere, All this plus a motivational way to get users' attention.</br>
 DevPost: https://devpost.com/software/naftal-ride </br>
 Source code: https://github.com/mohamed7372/Naftal-app-Hackit </br>
 `Team Work` `HackIt`
