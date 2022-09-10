@@ -37,33 +37,65 @@ We dealt with the issue of violence against women in the streets. The solution w
 `Team Work` `Cyber Pink`
 
 ## Projects IA:
+- Automatic TimeTable Generation</br>
+My graduation project was to create correct timing tables for the <b>College of Automated Media</b> using <b>artificial intelligence</b> and get rid of a traditional method that is difficult. We used a <b>genetic algorithm</b> to create tables free of confusion. We also added the feature of requesting a class change or adding a class that occurs automatically by finding an empty section free time for the professor and students Only those concerned remain with the approval of the administration. </br>
+Source code: https://github.com/mohamed7372/Generation-Automatique-EDT--PFE </br>
+`Team Work` `USTHB` `PFE`
 
 ## Projects Web:
 - CIRM (Citizen Relationship Management) [Nechki](https://astounding-pasca-8d705c.netlify.app/)</br>
 Is a secure digital complaints platform that we have set up to allow citizens and businesses to file requests, complaints, claims and solicitations. Our platform is there to make life easier and simpler, no need to move around , no more need to get a lot of papers, to end up giving up. You can now submit your complaints to the various government departments, respecting the transmission and processing of data, in an easy, secure way, <b>Echki</b> !</br>
 This challenge aimed at setting up a "Governmental Complaints Platform", named <b>"CiRM"</b>, for the benefit of the "Mediator of the Republic".</br>
 link challenge: https://cirm.gov.dz/ </br>
-`Team Work`
+`Team Work` `MicroClub`
 
 - Login Page</br>
-Source code: https://github.com/mohamed7372/Login-page 
+Source code: https://github.com/mohamed7372/Login-page </br>
+`MicroClub`
 
 - [Skribbl](https://benrabah-skribbl.herokuapp.com/)</br>
 Free multiplayer drawing and guessing game. Each game has multiple timed rounds. In each round, one player draws a chosen word while the others guess which word indicates the points. The player with the most points at the end of all rounds wins!</br>
 I developed this game to participate in the <b>MicroClub</b> challenge to determine the level in the field of web development, the challenge was directed to club <i>members only</i>.</br>
-Source code: https://github.com/mohamed7372/Skribbl-Game-MC 
+Source code: https://github.com/mohamed7372/Skribbl-Game-MC </br>
+`MicroClub`
 
 - [Gallery](https://benrabah-gallery.herokuapp.com/)</br>
 A simple website to display images and details like a gallery in a phone that I designed during the <b>MicroClub</b> web development course.</br>
-Source code: https://github.com/mohamed7372/gallery-website 
+Source code: https://github.com/mohamed7372/gallery-website </br>
+`MicroClub`
 
 - [CiE](https://benrabah-cie.herokuapp.com/)</br>
 It is a showcase site that offers <b>CiE</b>(Centre International des services Educatifs) services. For the purpose of achieving the online presence of this company, in order to have online contacts, prospects and customers. </br>
-`Team Work`
+
+- Ecommerce </br>
+A site for buying and selling goods from a company to a consumer (B2C)</br>
+Source Code: 
 
 ## Projects Mobile:
+- Dir El Khir </br>
+Source Code: 
+
+- [Surrounded Circle](https://play.google.com/store/apps/details?id=com.axegames.surroundedcircle&hl=en&gl=US)</br>
+Are you ready to play?</br>
+Avoid the various obstacles that are abundant in the levels to hinder you from the level. Think fast and press to complete the circle to destroy the obstacle and reach the end of the game!</br>
+
+- Calculator </br>
+An application android makes simple calculations like plus, division, multiplication, subtraction, modulo. It is such a nice and modern design.</br>
+Source Code: 
+
 
 ## Projects Desktop:
+- Hospital Management </br>
+It is a program to manage a hospital during the Corona period (beds, ambulances, doctors, patients...).</br>
+Source Code: https://github.com/mohamed7372/Hospital-Management--WINDEV
+
+- Medical Practice Management </br>
+A medical practice management system is a type of healthcare software that manages the day-to-day operations of a clinic, such as appointment scheduling, billing and other administrative tasks.</br>
+Source Code: https://github.com/mohamed7372/Management-Of-A-Medical-Practice--JAVA
+
+- Offline Dictionary </br>
+I designed a small dictionary containing 35,000 based on the C language using the hashtable method. </br>
+Source Code: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
