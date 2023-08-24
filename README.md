@@ -117,3 +117,5 @@ Source Code:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed7372&show_icons=true&locale=en" alt="mohamed7372" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed7372&" alt="mohamed7372" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64461eaee27257737495c9d5?variant=light)](https://roadmap.sh)
